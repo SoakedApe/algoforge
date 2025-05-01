@@ -1,5 +1,8 @@
 # AlgoForge
 
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 AI-powered strategy lab. Describe a trading strategy in plain English — AlgoForge translates it into working Python code, runs a backtest, and returns results in seconds.
 
 ## How it works
